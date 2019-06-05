@@ -3,7 +3,7 @@ Addon for blender to manipulate object visibility and max_drawtype based on obje
 
 ![Attr from Objects Names](https://raw.githubusercontent.com/tnzpv/attr_from_objectname/master/images/ui.png)
 
-Download it inside your addons folder and enable the add-on in Blender.
+Download it inside your addons folder and enable the add-on in Blender.  
 The add-on is in the Animation Panel.
 
 Objects are filtered by a regular expression search.  
