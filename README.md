@@ -8,4 +8,4 @@ The add-on is in the Animation Panel.
 
 Objects are filtered by a regular expression search.  
 It handles all mesh objects in blender file (even in groups).  
-However, attributes overrides are not persistent with objects linked.  
+However, attributes overrides are not persistent with linked objects.  
